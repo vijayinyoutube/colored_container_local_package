@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+part of coloredcontainer;
 
 class ColoredContainer extends StatelessWidget {
   const ColoredContainer({Key? key, required this.child, this.containerColor})
