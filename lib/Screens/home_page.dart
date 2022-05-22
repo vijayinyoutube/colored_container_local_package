@@ -9,7 +9,7 @@ class HomePage extends StatelessWidget {
     return const Scaffold(
       body: Center(
         child: ColoredContainer(
-          child: Text("VIJAY"),
+          child: Text("Some text"),
         ),
       ),
     );
